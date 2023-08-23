@@ -1,33 +1,17 @@
-### Hello World! 👋
+## Hello World! 🤩
 
-<!--
-**antonkomarev/antonkomarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Reyan Dilawar From Pakistan 🇵🇰 | Blogger ❤️
 
-Here are some ideas to get you started:
+[![Website](https://custom-icon-badges.demolab.com/badge/-Website-ff0000?style=for-the-badge&logo=heart&logoColor=white)](https://reyandilawar.blogspot.com "My Website")
+    
+## My Social Media ⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![instagram](https://custom-icon-badges.demolab.com/badge/-instagram-F30183?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/reyan_dilawar)
+[![facebook](https://custom-icon-badges.demolab.com/badge/-facebook-0B5ED7?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/reyandilawar)
+[![tiktok](https://custom-icon-badges.demolab.com/badge/-tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://facebook.com/reyandilawar)
 
-I am Reyan Dilawar From Pakistan
+## Total Profile Views 🚀
 
-🤔 Feeling the same? 🚀 Try [Ÿ HŸPE] to learn what's going on with your professional profile!
-You'll get improved statistics on your profile views, your followers, repositories traffic, stars and more!
-The roadmap has a number of useful features to come!
 
-In case you would simply like a public badge to count your visitors, try [GitHub Profile Views Counter].
+![](https://komarev.com/ghpvc/?username=reyan-dilawar&color=brightgreen&style=flat-square)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-</a>
-
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=1849174)

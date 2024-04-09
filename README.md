@@ -2,7 +2,7 @@
 
 I am Reyan Dilawar From Pakistan 🇵🇰 | Blogger ❤️
 
-[![Website](https://custom-icon-badges.demolab.com/badge/-Website-ff0000?style=for-the-badge&logo=heart&logoColor=white)](https://reyandilawar.blogspot.com "My Website")
+[![Website](https://custom-icon-badges.demolab.com/badge/-Website-ff0000?style=for-the-badge&logo=heart&logoColor=white)](https://reyandilawar.com "My Website")
     
 ## My Social Media ⭐
 

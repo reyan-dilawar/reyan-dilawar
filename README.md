@@ -9,7 +9,7 @@ I am Reyan Dilawar From Pakistan 🇵🇰 | Blogger ❤️
 [![instagram](https://custom-icon-badges.demolab.com/badge/-instagram-F30183?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/reyan_dilawar)
 [![facebook](https://custom-icon-badges.demolab.com/badge/-facebook-0B5ED7?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/reyandilawar)
 
-## Total Profile Views 🚀
+## Profile Views 🚀
 
 
 ![](https://komarev.com/ghpvc/?username=reyan-dilawar&color=brightgreen&style=flat-square)
